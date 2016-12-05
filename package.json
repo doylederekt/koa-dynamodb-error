@@ -1,0 +1,29 @@
+{
+  "name": "koa-dynamodb-error",
+  "version": "1.0.0",
+  "description": "Convert a DynamoDB error into an HTTP error.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtdd2l/koa-dynamodb-error.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "dynamo",
+    "koa",
+    "http",
+    "errors"
+  ],
+  "authors": "Derek Doyle <derekthomisdoyle@gmail.com> and Doug Moscrop <doug.moscrop@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/dtdd2l/koa-dynamodb-error#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
+}
