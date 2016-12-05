@@ -1,6 +1,6 @@
 {
   "name": "koa-dynamodb-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a DynamoDB error into an HTTP error.",
   "main": "index.js",
   "scripts": {
